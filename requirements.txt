@@ -1,0 +1,7 @@
+streamlit
+faster-whisper
+transformers
+sentencepiece
+soundfile
+moviepy
+torch
